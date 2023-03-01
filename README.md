@@ -50,4 +50,6 @@ Insights Generated:
 
 View Live Dashboard: https://public.tableau.com/app/profile/emmanuel.ikechukwu/viz/UKBankCustomerDemographics_16770003925420/Dashboard
 
-![bank-db](https://user-images.githubusercontent.com/88853963/220463643-63aaaf70-c83e-4153-bc47-bb7ae862edfc.png)
+
+![bank-db](https://user-images.githubusercontent.com/88853963/222291089-56cf0a5b-dce2-466c-94ed-0ac6e0afd364.png)
+
