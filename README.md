@@ -1,9 +1,7 @@
 # Bank Customer Dashboard
 
-# Pizza Sales Dashboard
-
-**Data Source:** *Quantum Analytics NG* <br/>
-**Data Visualization Tool:** *Microsoft Power BI* <br/>
+**Data Source:** *Quantum Analytics* <br/>
+**Data Visualization Tool:** *Tableau* <br/>
 
 ## Goal
 The goal of this Power BI report was to help the pizza place understand customer preference based on size and category, as well as peak sales period.
