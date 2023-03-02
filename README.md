@@ -4,10 +4,10 @@
 **Data Visualization Tool:** *Tableau* <br/>
 
 ## Goal
-The goal of this Power BI report was to help the pizza place understand customer preference based on size and category, as well as peak sales period.
+The goal of this report was to help understand the customer demogrphics of UK banks based on gender and work category.
 
 ## Business Use Case
-The business need for this report was to provide a an executive overview of the revenue generated over time as well as the best selling product categories.
+The business need for this report was to get a high level view of bank customers accross different niche and age categories.
 
 ## Insights Generated
 > * Total number of customers
